@@ -24,31 +24,45 @@ Kurozora is an open-source anime, manga, game and music discovery service that o
 
 # 🎯Goal
 
-Kurozora’s mission consist of three parts that work together to improve the user’s experience while also keeping the industry healthy. These parts are:
+Kurozora’s mission consist of three parts that work together to improve the user’s experience while also keeping the industry healthy:
 
-### 1. Offering better anime streaming services
+<ol>
+  <li>
+  <details>
+  <summary>Offering better anime streaming services</summary>
 
 #### Problem
 Back in 2016, I was fed up with the state of anime streaming: pricy subscriptions, limited catalogs, and poor quality options. These are true even today. As a result, many anime fans turn to illegal streaming sites for a better experience. At Kurozora, we aim to change that.
 
 #### Goal
 Our goal is to combine the best of legal and illegal services. We’ll offer legal streaming with affordable subscription plans that cater to different budgets, a free tier with better experience and video quality, provide all anime to all users regardless of location, and ensure safe streaming without spicy ads, pop-ups, and malware.
+  </details>
+  </li>
 
-### 2. Be a reliable and modern anime tracking service
+  <li>
+  <details>
+  <summary>Be a reliable and modern anime tracking service</summary>
 
 #### Problem
-Back in 2017 Aozora, an app that I was an admin of, was sold off to Kitsu. In my opinion they did a poor job of the transition from Aozora to Kitsu, but what’s worse is they did a poor job of keeping what made the Aozora app good, alive. Additionally, many existing tracking services have outdated user experiences and poorer mobile apps. There’s a lack of innovation.
+In 2017, the Aozora app, for which I served as one of the admins, was acquired by Kitsu. While I appreciate the value that Kitsu brings to the users, I noticed that some of the unique features that made Aozora stand out were not carried over to the Kitsu platform. Additionally, many existing tracking services have outdated user experiences, and even poorer mobile apps. There’s a lack of innovation.
 
 #### Goal
 We understand the importance of having a reliable and up-to-date tracking service for your anime, manga, and game collections. We will improve the tracking experience for everyone, with features that matter to anime, manga and game fans like you. We’ll offer modern user experiences and user interfaces, while making sure it’s as intuitive and easy to use.
+  </details>
+  </li>
 
-### 3. Support the anime industry
+  <li>
+  <details>
+  <summary>Support the anime industry</summary>
 
 #### Problem
 During the same time back in [2016](https://www.animenewsnetwork.com/interest/2016-12-07/young-animators-npo-launches-crowdfunding-campaign/.109566) (and recently in [2020](https://www.kickstarter.com/projects/animatorsupporters/2020-new-anime-making-system-project)), there were kickstarters for collecting funds to give to anime artists, since they didn't make enough money. Also in the years prior, a lot of beloved anime studios went bankrupt (Manglobe </3) due to financial reasons. Unfortunately, the current system often means that distributors and licensors get the biggest slice of the pie, leaving the artists and studios with little.
 
 #### Goal
 We love anime, manga, and games. We know that the people who create them deserve fair compensation for their hard work. With Kurozora, we want to level the playing field. Our goal is to have more money go directly to the studios and animators who create the content that we all love.
+  </details>
+  </li>
+</ol>
 
 Join us on our mission to improve the anime streaming and tracking experience while supporting the industry. Together, we can make a difference.
 
