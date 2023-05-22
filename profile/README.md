@@ -12,13 +12,15 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href=“#”>Play Store (TBA)</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href=“#”>Linux (TBA)</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://addons.mozilla.org/en-US/firefox/addon/kurozora">Web Extension</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://discord.gg/f3QFzGqsah">Discord</a>
   <hr />
 </div>
 
-# Kurozora [![Apple Platform](https://img.shields.io/badge/iOS%20|%20iPadOS%20|%20MacOS-black.svg?style=flat&logo=Apple)](https://apple.co/3CsQlKq) [![Android Platform](https://img.shields.io/badge/Android%20(TBA)-white.svg?style=flat&logo=Android)]() [![Mozilla Add-On](https://img.shields.io/badge/Mozilla%20Add--On-%23331e54?label=%20&logo=Firefox)](https://addons.mozilla.org/en-US/firefox/addon/kurozora) [![Kurozora Discord Server](https://img.shields.io/discord/449250093623934977?style=flat&label=&logo=Discord&logoColor=white&color=7289DA)](https://discord.gg/f3QFzGqsah) [![License](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat)](LICENSE)
+# Kurozora [![Apple Platform](https://img.shields.io/badge/iOS%20|%20iPadOS%20|%20MacOS-black.svg?style=flat&logo=Apple)](https://apple.co/3CsQlKq) [![Android Platform](https://img.shields.io/badge/Android%20(TBA)-white.svg?style=flat&logo=Android)]() [![Linux Platform](https://img.shields.io/badge/Linux%20(TBA)-yellow.svg?style=flat&logo=Linux&logoColor=white)]() [![Mozilla Add-On](https://img.shields.io/badge/Mozilla%20Add--On-%23331e54?label=%20&logo=Firefox)](https://addons.mozilla.org/en-US/firefox/addon/kurozora) [![Kurozora Discord Server](https://img.shields.io/discord/449250093623934977?style=flat&label=&logo=Discord&logoColor=white&color=7289DA)](https://discord.gg/f3QFzGqsah) [![License](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat)](LICENSE)
 
 Kurozora is an open-source anime, manga, game and music discovery service that offers unlimited access to a growing collection of over 90,000 Japanese media combined — featuring new releases, award winners, and beloved favorites. Kurozora also includes episodes, characters, voice actors, staff, studios, and much more — all without ads. You can track what you're watching, reading, playing, and listening to on iPhone, iPad, iPod touch, Mac, and through any web browser.
 
@@ -66,15 +68,28 @@ We love anime, manga, and games. We know that the people who create them deserve
 
 Join us on our mission to improve the anime streaming and tracking experience while supporting the industry. Together, we can make a difference.
 
+# 🛠️Projects
+
+| Project       | Stack         | Description |
+| ------------- | ------------- | ----------- |
+| [Kurozora Web](https://github.com/kurozora/kurozora-web) | Tailwind, Alpine, Livewire & Laravel | Home to the Kurozora website and API |
+| [Kurozora iOS App](https://github.com/Kurozora/kurozora-app) | Swift & UIKit | iOS/iPadOS/MacOS client app |
+| [KurozoraKit](https://github.com/Kurozora/KurozoraKit) | Swift | Simple to use framework for interacting with the Kurozora API |
+| [Kurozora Android App](https://github.com/Kurozora/kurozora-android) | Kotlin & Jetpack Compose | Android client app |
+| [Kurozora Linux App](https://github.com/Kurozora/kurozora-linux) | C++ & GTK4 | Linux client app |
+| [KuroBot (Discord Bot)](https://github.com/Kurozora/kurozora-discord-bot) | Javascript & NodeJS | A versatile Discord bot with access to Kurozora services |
+| [Kurozora Web Extension](https://github.com/Kurozora/kurozora-extension) | Javascript & Manifest 3 | Anime, Manga and Game search engine for FireFox and Chrome |
+
 # 🤝Contributing
 
 First of all thank you so much for considering to contribute to Kurozora. As an open source project, all contributions are welcome! Whether you're a developer, designer, or simply a fan of Japanese media, there are many ways to get involved:
 
 - resolve an open issues
 - add new features/improve existing ones
+- port Kurozora to your favorite platform
 - help lower running costs
 - help grow the community
-- donate through [Patreon](https://patreon.com/kurozora) or make an In-App Purchase
+- donate through [Patreon](https://patreon.com/kurozora) or [Ko-Fi](https://ko-fi.com/Kurozora), or make an In-App Purchase
 - anything else you believe will contribute to Kurozora’s growth
 
 # 🛡️Security
